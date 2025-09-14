@@ -1,0 +1,19 @@
+For first time git initalization in the folder and after that adding to github.
+
+git init
+
+create README.md in local directory.
+
+git status
+
+git add .
+
+git commit -m "message"
+
+git remote add origin <URL github>
+
+git checkout -b main
+
+git push -u origin main
+
+
