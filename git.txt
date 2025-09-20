@@ -52,7 +52,3 @@ git branch -d [name] - Delete branch
 
 
 5. 
-
-
-
-
